@@ -1,4 +1,6 @@
 # 河海大学自动打卡（GitHub Action）
+## 停更提醒
+由于学校更换打卡平台，该项目不再更新，新的打卡脚本请参考https://github.com/jscslld/hhu_health_report
 ## 使用方法
 1. 首先先将本项目Fork到自己用户下
 ![image](https://user-images.githubusercontent.com/13760010/147191441-20e4ed7c-40f7-4925-b8f5-3dd580043f3f.png)
